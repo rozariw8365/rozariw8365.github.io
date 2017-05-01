@@ -12,7 +12,7 @@ img{
 }
 h3{
   width:30%;
-  height:200px;
+  height:90px;
   text-align: center;
   border: 2px solid green;
 }
@@ -21,6 +21,8 @@ p, h1, h2, h3 {
   color: white;
 }
   
-  
+a{
+  color: white;
+}
   
  
