@@ -15,6 +15,7 @@ h3{
   height:70px;
   text-align: center;
   border: 2px solid green;
+  border-radius: 4px;
 }
 
 p, h1, h2, h3 {
