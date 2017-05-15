@@ -4,5 +4,6 @@ $(document).ready(function(){
   var last = $("input[name=RequestedMepPart]").val():
   var response = "ok! here you go," + first + " " + last;
   $("#ok! here you go,).html(response);
- }];
- $
+    }];
+ 
+ 
