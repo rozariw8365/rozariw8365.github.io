@@ -37,3 +37,10 @@ width:20%;
 
 }
 
+nav ul li{
+  display: inline-block;
+  padding-left: 20px;
+}
+section{
+  margin-top:50px;
+
