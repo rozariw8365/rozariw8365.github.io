@@ -6,4 +6,8 @@ $(document).ready(function(){
   $("#ok! here you go,").html(response);
     }];
  
- 
+ $(document).ready(function(){
+  $("#members_nav").click(function(){
+   $("div").css("display", "none");
+   $("#members_div").css("display" "inline-block");
+  })
