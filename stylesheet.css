@@ -36,11 +36,23 @@ background-color: grey;
 width:20%;
 
 }
-
-nav ul li{
+nav{
+  position: fixed;
+  top:0;
+  width 100%;
+  background-color: grey;
+  left:0;
+}
+  nav ul li{
   display: inline-block;
   padding-left: 20px;
 }
 section{
   margin-top:50px;
+}
+aside{
+  display: inline-block;
+  width: 40%;
+  
+  
 
